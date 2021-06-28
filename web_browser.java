@@ -37,3 +37,5 @@ public class web_browser extends JFrame implements Runnable {
 	}
 
 }
+
+//Jar file needed
