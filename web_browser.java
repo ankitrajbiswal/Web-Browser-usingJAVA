@@ -38,5 +38,6 @@ public class web_browser extends JFrame implements Runnable {
 
 }
 //java fx cannot be resolved
+// seek help from someone
 
 //Jar file needed
