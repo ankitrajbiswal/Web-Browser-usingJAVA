@@ -15,9 +15,11 @@ Step 3: To Install JavaFx in your IDE (For eclipse)
 Step 4: Now Run the java file and Voila!!! The Web Browser will open and you can start surfing.
 
 ## Some Screenshots of the Web Browser
-1. ![desk](https://user-images.githubusercontent.com/53295960/124376564-34f3e800-dcc5-11eb-8395-eb3aff08b8a4.JPG)
+1.
+    ![desk](https://user-images.githubusercontent.com/53295960/124376564-34f3e800-dcc5-11eb-8395-eb3aff08b8a4.JPG)
 
-2. ![2](https://user-images.githubusercontent.com/53295960/124376575-463cf480-dcc5-11eb-9804-d0150df773af.JPG)
+2. 
+    ![2](https://user-images.githubusercontent.com/53295960/124376575-463cf480-dcc5-11eb-9804-d0150df773af.JPG)
 
 ## Precautions
  1. Make Sure the JavaFx is already installed in your IDE,Otherwise you will encounter errors.
