@@ -13,7 +13,7 @@ public class WebBrowser extends JFrame implements Runnable{
     private JFXPanel panel;
     
     public void run() {
-        setTitle("Search");
+        setTitle("A R Browser");
         setVisible(true);
         setBounds(0,0,1950, 1080);
         
@@ -22,7 +22,7 @@ public class WebBrowser extends JFrame implements Runnable{
         
         Platform.runLater(() -> {
             WebView view = new WebView();
-            view.getEngine().load("http://www.google.com");
+            view.getEngine().load("https://www.bing.com/");
 
             panel.setScene(new Scene(view));
         });
