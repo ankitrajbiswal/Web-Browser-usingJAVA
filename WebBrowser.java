@@ -7,6 +7,11 @@ import javafx.scene.*;
 import javafx.scene.web.WebEngine;
 import javafx.scene.web.WebView;
 
+/**
+ * @author Ankit Raj Biswal
+ *
+ */
+
 public class WebBrowser extends JFrame implements Runnable{
 
     private WebEngine webEngine;
