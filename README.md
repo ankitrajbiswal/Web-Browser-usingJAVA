@@ -1,6 +1,13 @@
 ## Simple-Web-Browser
 It is a Very simple Web browser with Microsoft Bing as the default Search Engine.
-It has been made with the help of JavaFx, Swing and Multithreading.
+
+
+## About
+There are many web browsers in the world, but a lot of them are complicated to use.This browser is completely minimal in use, it have Microsoft Bing as default search engine for fast surfing, it supports everything that you need while surfing. You can use Instagram, Facebook, Github, YouTube and many more websites in this browser without encountering any problem.
+
+## Tech Stack
+I have coded this project using JAVA Fx, using the concept of Multithreading.
+This project can also be coded in Python or C++.
 
 ## How To Use
 
@@ -22,8 +29,10 @@ Step 4: Now Run the java file and Voila!!! The Web Browser will open and you can
     ![2](https://user-images.githubusercontent.com/53295960/124376575-463cf480-dcc5-11eb-9804-d0150df773af.JPG)
 
 ## Precautions
- 1. Make Sure the JavaFx is already installed in your IDE,Otherwise you will encounter errors.
+ 1. Make Sure the JavaFx is already installed in your IDE,Otherwise you will encounter error.
+
+## Conclusion
+This Web Browser have been made with JAVA Fx using the concept of Multithreading. Few features are to be added like support for using multiple tabs at at time , Icoginito Browing and Bookmarks for the tabs and few changes in the UI will also be given by me and the code will also be optimized a bit, in order to make this a full fledged project.
  
-### JAR file will be uploaded soon
-### Thanks for being patient. :relaxed:
+### Thanks You :relaxed:
 
