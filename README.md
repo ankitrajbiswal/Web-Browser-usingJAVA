@@ -1,4 +1,4 @@
-## Simple-Web-Browser
+## Web Browser using JAVA
 It is a Very simple Web browser with Microsoft Bing as the default Search Engine.
 
 
