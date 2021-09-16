@@ -18,7 +18,7 @@ public class WebBrowser extends JFrame implements Runnable{
     private JFXPanel panel;
     
     public void run() {
-        setTitle("A R Browser");
+        setTitle("JAVA Web Browser");
         setVisible(true);
         setBounds(0,0,1950, 1080);
         
