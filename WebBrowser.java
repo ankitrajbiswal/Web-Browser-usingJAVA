@@ -1,4 +1,3 @@
-package web.browser;
 
 import javax.swing.*;
 import javafx.application.Platform;
@@ -18,7 +17,7 @@ public class WebBrowser extends JFrame implements Runnable{
     private JFXPanel panel;
     
     public void run() {
-        setTitle("JAVA Web Browser");
+        setTitle("Web Browser");
         setVisible(true);
         setBounds(0,0,1950, 1080);
         
