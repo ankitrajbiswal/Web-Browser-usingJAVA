@@ -16,18 +16,18 @@ If you spot a problem with the docs, [search if an issue already exists](https:/
 
 Scan through our [existing issues](https://github.com/ankitrajbiswal/Web-Browser-usingJAVA/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See [Labels](https://github.com/ankitrajbiswal/Web-Browser-usingJAVA/labels) for more information.
 
-### Make Changes
+### Make Changes according to your wish
 
 ### Commit your update
 
-Commit the changes once you are happy with them.
+Commit the changes till you are happy with them.
 
 Once you are ready with your changes, don't forget to self review to quicken the review process :zap:.
 
 ### Pull Request
 
 When you're done making the changes, open a pull request, often referred to as a PR. 
-- Fill out the "Ready for review" template so I can review your PR. This template helps reviewers understand your changes and the purpose of your pull request. 
+- Fill out the "Ready for review" template so I can review your Pull Request. This template helps reviewers understand your changes and the purpose of your pull request. 
 - Don't forget to link PR to issue ,if you are solving one.
 - Enable the checkbox to allow maintainer edits, so the branch can be updated for a merge.
 Once you submit your PR, I will review your proposal.
