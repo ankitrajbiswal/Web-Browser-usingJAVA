@@ -1,7 +1,5 @@
 ## Web Browser using JAVA
-It is a Very simple Web browser with Microsoft Bing as the default Search Engine.
-
-
+A very fundamental web-browser is deployed which has Microsoft Bing as its default Search Engine.
 ## About
 There are many web browsers in the world, but a lot of them are complicated to use.This browser is completely minimal in use, it have Microsoft Bing as default search engine for fast surfing, it supports everything that you need while surfing. You can use Instagram, Facebook, Github, YouTube and many more websites in this browser without encountering any problem.
 
